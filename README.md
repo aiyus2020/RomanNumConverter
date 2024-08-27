@@ -1,14 +1,15 @@
-Roman Numeral Converter
-This project is a web application that converts Arabic numerals into Roman numerals. It was developed using HTML, CSS, and JavaScript to create an interactive user interface that allows users to input numbers and receive their Roman numeral equivalents.
 
-Features
-User Input: An input field for entering numbers.
-Validation: Checks for valid inputs and  Displays error messages for invalid entries.
-Conversion Logic: Efficiently converts valid Arabic numerals to Roman numerals using a defined mapping of values and symbols.
-Responsive Design: The layout is designed to be user-friendly and responsive on mobile devices, ensuring accessibility on various screen sizes.
-Technologies Used
-HTML: For the structure of the web page.
-CSS: For styling and layout, using custom variables for consistent theming.
-JavaScript: For the conversion logic and interactivity.
-This project demonstrates the use of basic web technologies to create a functional and visually appealing application.
 
+
+Roman Numeral Converter 🏛️
+This project is a Roman Numeral Converter that allows users to convert Arabic numbers (1-3999) into their Roman numeral equivalents. The site was built using HTML, CSS, and JavaScript for a clean and responsive design.
+
+Features 🌟
+User Input: An input field where users can enter a number.
+Conversion Button: A button to trigger the conversion process.
+Error Handling: Displays error messages for invalid inputs (e.g., non-numeric values, numbers outside the range).
+Responsive Design: The layout adjusts for different screen sizes, ensuring usability on both desktop and mobile devices.
+How It Works 🔧
+Users enter a number in the input field.
+Upon clicking the "Convert" button, the app checks for valid input.
+If valid, it converts the number to a Roman numeral and displays the result. If invalid, it shows an appropriate error message.
